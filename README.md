@@ -17,5 +17,6 @@
 ##### --- Your sqlite database will be created
 
 ### Condition for using OpenAI api key
-##### --- Key used in this program is disable for security purpose. New api key is commented bellow, use that instead of applied api key
+##### --- Key used in this program is disable for security purpose. New api key is mentioned bellow, use that instead of applied api key
+##### --- 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
 
