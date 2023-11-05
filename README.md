@@ -10,9 +10,9 @@
 ##### --- spacy = For displaying key points in proper way
 
 ### Follow rule to create sqlite database
-##### Go to terminal, write python or python3 and click enter button
-##### write from main import db and click enter button
-##### write db,create_all() and click enter button
-##### write exit() and click enter button 
-##### Your sqlite database will be created
+##### --- Go to terminal, run python or python3
+##### --- run from main import db
+##### --- run create_all() and click enter button
+##### --- run exit() and click enter button 
+##### --- Your sqlite database will be created
 
