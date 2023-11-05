@@ -16,3 +16,6 @@
 ##### --- run exit() and click enter button 
 ##### --- Your sqlite database will be created
 
+### Condition for using OpenAI api key
+##### --- This key is disable for security purpose. New api key is commented bellow, use that instead of applied api key
+
